@@ -1,0 +1,8 @@
+# Cache
+__pycache__
+
+# MacOS Finder
+.DS_Store
+
+# Visual Studio Code
+.vscode
